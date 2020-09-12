@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("wang");
 		System.out.println("wang2");
                 System.out.println("在线添加");
+System.out.println("在线添加2");
 	}
 
 }
